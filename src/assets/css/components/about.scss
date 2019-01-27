@@ -1,0 +1,16 @@
+.c-about {}
+
+.c-about p {
+  font-size: 2rem;
+}
+
+.c-about__resume-icon {
+  width: 30px;
+}
+
+@media screen and (min-width: 1200px) {
+  .c-about p {
+    font-size: 2.5rem;
+    line-height: 1.3;
+  }
+}

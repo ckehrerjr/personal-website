@@ -1,0 +1,78 @@
+html {
+  font-size: 100%;
+  line-height: 1.5;
+  color: #fff;
+}
+
+body {
+  border-top: 10px solid #fff;
+  font-family: 'lato-regular', 'Helevetica', sans-serif;
+  background: #1e5799;
+  background: -moz-linear-gradient(top, #1e5799 0%, #2989d8 77%, #7db9e8 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1e5799), color-stop(77%, #2989d8), color-stop(100%, #7db9e8));
+  background: -webkit-linear-gradient(top, #1e5799 0%, #2989d8 77%, #7db9e8 100%);
+  background: -ms-linear-gradient(top, #1e5799 0%, #2989d8 77%, #7db9e8 100%);
+  background: linear-gradient(to bottom, #1e5799 0%, #2989d8 77%, #7db9e8 100%);
+}
+
+h1, h2, h3 {
+  margin: 0;
+  font-family: 'lato-light';
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 3.998rem;
+}
+
+h2 {
+  font-size: 2.827rem;
+}
+
+h3 {
+  font-size: 1.999em;
+}
+
+a {
+  color: #fff;
+}
+
+a:active, a:hover, a:link, a:visited {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-family: 'lato-light';
+}
+
+/*
+input[type=email], input[type=text], textarea {
+  border: none;
+  outline: none;
+  padding: 1em;
+  width: 100%;
+  height: 2em;
+  @media screen and (min-width: 40.000em) {
+    height: 3em;
+  }
+  color: #000;
+  box-shadow: inset 0 0 7px #3e3e3e;
+}
+
+textarea {
+  height: 10em;
+}
+
+input[type=submit] {
+  background-color: transparent;
+  border: 2px solid;
+  padding: 1em;
+  width: 100%;
+  @media screen and (min-width: 40.000em) {
+    width: 40%;
+  }
+} */

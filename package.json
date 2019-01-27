@@ -1,0 +1,49 @@
+{
+  "name": "k35c",
+  "description": "My personal portfolio website build in Vuejs",
+  "version": "1.0.0",
+  "author": "Charlie Kehrer Jr.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --mode development",
+    "serve": "webpack-dev-server --open --watch"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.5.2",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "node-sass-loader": "^0.1.7",
+    "normalize.css": "^8.0.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "style-loader": "^0.20.3",
+    "vue": "^2.5.16",
+    "vue-axios": "^2.1.1",
+    "vue-carousel": "^0.6.14",
+    "webpack-cli": "^2.0.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 11"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "cross-env": "^5.1.4",
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "4.0.0-alpha.0",
+    "file-loader": "^1.1.11",
+    "sass-loader": "^7.1.0",
+    "uglify-js": "^3.4.9",
+    "vue-loader": "^14.2.2",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "4.19",
+    "webpack-dev-server": "^3.1.3"
+  }
+}
