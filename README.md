@@ -11,7 +11,8 @@
 ## Setup
 ```
 $ npm install
-$ yarn install
 $ npm run dev
+
+$ yarn install
 $ yarn start
 ```
