@@ -9,8 +9,9 @@
   * Sass 2.5
 
 ## Setup
+```
 $ npm install
 $ yarn install
-
 $ npm run dev
 $ yarn start
+```
