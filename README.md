@@ -9,11 +9,8 @@
   * Sass 2.5
 
 ## Setup
+$ npm install
+$ yarn install
 
-# install dependencies
-npm install
-yarn install
-
-# serve with hot reload at localhost:8080
-npm run dev
-yarn start
+$ npm run dev
+$ yarn start
