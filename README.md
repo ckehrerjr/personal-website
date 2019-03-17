@@ -5,7 +5,6 @@
 > Project is created with:  
   * Vue.js 2.5
   * Axios 2.5
-  * Firebase 5.5
   * Sass 2.5
 
 ## Setup
